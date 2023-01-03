@@ -1,0 +1,23 @@
+{
+  "name": "redux-application",
+  "version": "1.0.0",
+  "description": "This repository is for learning redux concepts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snehapoulose/redux-application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snehapoulose/redux-application/issues"
+  },
+  "homepage": "https://github.com/snehapoulose/redux-application#readme",
+  "dependencies": {
+    "redux": "^4.2.0"
+  }
+}
